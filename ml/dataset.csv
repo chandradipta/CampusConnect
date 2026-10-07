@@ -1,0 +1,151 @@
+complaint_text,category
+WiFi is not working in the hostel,IT
+Projector in lab 3 will not turn on,IT
+Internet very slow in library,IT
+Campus portal is showing a login error,IT
+Computer in lab 2 keeps restarting,IT
+Printer is not responding in the department office,IT
+Smart classroom display has no signal,IT
+Student ERP page is unavailable,IT
+Network cable is damaged in lab 1,IT
+Email account cannot be accessed,IT
+Biometric attendance machine is offline,IT
+Campus WiFi disconnects frequently,IT
+Lab desktop has no internet connection,IT
+Projector remote is not working,IT
+Learning portal is returning an error,IT
+Computer mouse and keyboard are not responding,IT
+Online exam portal is slow,IT
+Department website is down,IT
+WiFi signal is weak near hostel block B,IT
+Library computer cannot open the browser,IT
+Server room network switch shows an alert,IT
+Faculty login password reset is failing,IT
+Classroom display is flickering due to connection,IT
+Campus app is crashing after login,IT
+Printer queue is stuck in the admin office,IT
+Lab software cannot connect to the server,IT
+Internet speed is very slow during class,IT
+Student ID card is not working at the access terminal,IT
+Cloud storage is not syncing,IT
+Computer lab login service is unavailable,IT
+Water pipe leaking near canteen,Water
+Water cooler near library not working,Water
+Bathroom tap broken in block A,Water
+No water supply in hostel block C,Water
+Drinking water tastes unusual near the lab,Water
+Water dispenser is empty in the seminar hall,Water
+Washroom flush is not working,Water
+Pipeline is leaking beside the auditorium,Water
+Water tank is overflowing near hostel,Water
+No drinking water on second floor,Water
+Sink tap is broken in chemistry block,Water
+Water pressure is very low in hostel,Water
+Cooler is leaking near reception,Water
+Wash basin drain is blocked,Water
+Water supply stopped in academic block,Water
+Toilet water line is leaking,Water
+Water cooler needs maintenance,Water
+Tap is continuously running in block D,Water
+Bad smell coming from water outlet,Water
+Water storage tank needs cleaning,Water
+Washroom has no running water,Water
+Leakage near the sports complex,Water
+Broken pipe outside the cafeteria,Water
+Drinking water station is unavailable,Water
+Water is pooling near the library washroom,Water
+Hostel bathroom shower is broken,Water
+Canteen handwash tap has no water,Water
+Water filter is not functioning,Water
+Pipeline leakage is making the floor wet,Water
+Toilet flush button is damaged,Water
+Exposed wiring near Block B,Electrical
+Classroom fan not working,Electrical
+Tube light flickering in corridor,Electrical
+Power socket is sparking in lab,Electrical
+Ceiling fan stopped in room 204,Electrical
+Electrical switch is broken in seminar hall,Electrical
+Lights are off in the hostel corridor,Electrical
+Generator power is not switching on,Electrical
+Loose wire visible near classroom door,Electrical
+Projector power socket has no electricity,Electrical
+Circuit breaker trips in the laboratory,Electrical
+Tube light is broken near staircase,Electrical
+Fan regulator is not working,Electrical
+Electrical panel is making a noise,Electrical
+Power outage in computer lab,Electrical
+Charging socket is damaged in library,Electrical
+Street light is not working near gate,Electrical
+Classroom lights keep blinking,Electrical
+Exposed cable near the parking area,Electrical
+Socket cover is broken in hostel,Electrical
+Emergency light is not working,Electrical
+Electrical smell near the lab,Electrical
+Fan makes a loud electrical noise,Electrical
+Power supply is unstable in seminar hall,Electrical
+Switchboard is cracked in block A,Electrical
+Hostel room light has stopped working,Electrical
+Lab equipment loses power frequently,Electrical
+Corridor light is broken near washroom,Electrical
+Loose socket near faculty room,Electrical
+Main corridor has no lights,Electrical
+Road damaged near main gate,Civil
+Crack in the wall of seminar hall,Civil
+Broken stairs railing in hostel,Civil
+Pothole near parking area,Civil
+Classroom ceiling has a crack,Civil
+Floor tile is broken in block C,Civil
+Door frame is damaged in lab 4,Civil
+Water seepage on the academic block wall,Civil
+Footpath is broken near library,Civil
+Window glass frame is damaged,Civil
+Hostel corridor ceiling is damaged,Civil
+Bench is broken in classroom,Civil
+Drain cover is missing near road,Civil
+Boundary wall has a visible crack,Civil
+Staircase step is damaged,Civil
+Cement slab is broken near canteen,Civil
+Roof leakage has damaged the ceiling,Civil
+Paving blocks are loose near entrance,Civil
+Classroom door hinge is damaged,Civil
+Handrail is loose on staircase,Civil
+Road surface is uneven near hostel,Civil
+Wall plaster is falling in corridor,Civil
+Washroom floor tile is broken,Civil
+Parking shed structure is damaged,Civil
+Seminar hall door is jammed,Civil
+Broken concrete near sports ground,Civil
+Campus path is flooded because drain is blocked,Civil
+Ceiling plaster is falling in classroom,Civil
+Gate pillar has a crack,Civil
+Hostel window frame is broken,Civil
+Security gate left open at night,Security
+Stray people entering campus after dark,Security
+CCTV camera not working in parking,Security
+Unknown person entered the hostel area,Security
+Visitor without ID is near the laboratory,Security
+Main gate security light is off,Security
+Lost ID card reported at hostel,Security
+Suspicious activity near parking area,Security
+Security guard is absent at the back gate,Security
+Unauthorized vehicle entered campus,Security
+Hostel gate lock is damaged,Security
+CCTV footage is unavailable,Security
+Unknown visitor asking for student details,Security
+Bike is parked in a restricted area,Security
+Access control reader is not working,Security
+Night patrol is missing near block C,Security
+Someone is entering through the boundary wall,Security
+Security alarm is not functioning,Security
+Unidentified package found near gate,Security
+Student reports harassment near parking,Security
+Visitor register is not being maintained,Security
+Back gate is unlocked after hours,Security
+Unknown vehicle is parked near hostel,Security
+Emergency security phone is unreachable,Security
+CCTV camera is pointing away from entrance,Security
+Unauthorized person is in the sports complex,Security
+Gate pass is being used by another person,Security
+Security fence is damaged near boundary,Security
+Suspicious vehicle seen near library,Security
+Hostel corridor security camera is offline,Security
